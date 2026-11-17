@@ -1,0 +1,16 @@
+player_name,season_data,qualified_seasons,bowling_scoring_base,consistency,stable_players,death_bowlers,qualified_death_bowlers,final_bowling,mapping_df
+Trent Boult,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Deepak Chahar,YES,YES,YES,YES,YES,YES,NO,NO,YES
+Mitchell Starc,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Avesh Khan,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Anrich Nortje,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Wanindu Hasaranga,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Lockie Ferguson,YES,YES,YES,YES,YES,YES,YES,NO,YES
+Shahrukh Khan,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Ishant Sharma,YES,YES,YES,YES,YES,YES,NO,NO,YES
+Jacob Bethell,YES,NO,NO,NO,NO,NO,NO,NO,YES
+Richard Gleeson,YES,NO,NO,NO,NO,YES,NO,NO,YES
+Gerald Coetzee,YES,YES,YES,YES,NO,YES,NO,NO,YES
+Matthew Short,YES,NO,NO,NO,NO,NO,NO,NO,YES
+Matt Henry,YES,NO,NO,NO,NO,YES,NO,NO,YES
+Akash Madhwal,YES,YES,YES,YES,YES,YES,NO,NO,YES

@@ -1,0 +1,9 @@
+priority,player_name,matched_role,previous_franchise,final_score,final_rank,matches,sample_size,sample_quality
+1,Travis Head,Batter,SRH,67.84533419438166,32,9,103,Limited sample
+2,Matheesha Pathirana,Bowler,KKR,64.5727158844665,11,15,278,Substantial sample
+3,Nitish Rana,Batter,DC,63.13270355375618,39,18,291,Substantial sample
+4,Shimron Hetmyer,Batter,RR,55.74872665534805,46,24,250,Substantial sample
+5,Rachin Ravindra,Batter,KKR,43.24366471734893,63,6,102,Limited sample
+6,Nehal Wadhera,Batter,PBKS,35.60183066361556,72,15,170,Limited sample
+7,Rahul Tripathi,Batter,KKR,27.098890724569277,78,14,163,Limited sample
+8,Abishek Porel,Batter,DC,13.144027734005672,90,10,107,Limited sample
